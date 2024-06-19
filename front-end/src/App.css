@@ -28,3 +28,27 @@ body {
     width: 100%;
     background-color: skyblue;
 }
+
+.signup {
+    margin-left: 30%;
+}
+
+.inputBox {
+    display: block;
+    padding: 10px;
+    margin: 22px;
+    width: 300px;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+}
+
+.button {
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: skyblue;
+    font-size: 16px;
+    border: 1px solid #fff ;
+    border-radius: 7px;
+    cursor: pointer;
+}
